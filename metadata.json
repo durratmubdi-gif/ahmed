@@ -1,0 +1,6 @@
+{
+  "name": "درع الأمان — أداة الفحص والحماية الذكية",
+  "description": "منظومة متكاملة لفحص قوة كلمات المرور، كشف الروابط المشبوهة والتصيد الرقمي، وتوليد كلمات مرور مشفرة بخصوصية تامة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
